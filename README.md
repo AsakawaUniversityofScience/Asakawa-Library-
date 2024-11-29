@@ -1,10 +1,9 @@
 # Asakawa-Library-
 这里收录了浅川科學大學进行教学研究用的各种书籍
 呃啊，请选择不同分支来查看不同学科的图书qwq
-
+![院徽](https://github.com/user-attachments/assets/4e3ffa2a-a205-4aa7-bd51-1fec2b826144)
 感谢所有 浅川科學大學 和 唐小菲大學 的小菲们一起来建设图书馆
-![院徽](https://github.com/user-attachments/assets/aa6843d9-f428-4b93-9f64-03d56d7066f3)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 目前项目的参与者：浅川爱，煎顺包，长崎素世，一识，结城天...
 ![qca](https://github.com/user-attachments/assets/e94264ae-b950-4bc5-8efc-dd01d7df6fef)
 ![jsb](https://github.com/user-attachments/assets/9ef7a174-1f5c-4b1c-bbe5-255329438655)
