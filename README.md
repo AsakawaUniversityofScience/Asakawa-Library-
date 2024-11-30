@@ -15,6 +15,7 @@
 ![jct](https://github.com/user-attachments/assets/aa374400-508d-4b2e-b10e-21873069ff69)
 ![Mir](https://github.com/user-attachments/assets/333b163d-7999-4494-b533-ee6fe207d3b1)
 ![analy](https://github.com/user-attachments/assets/ea84866d-4da8-49ab-a955-774f9e1a1bfc)
+
 ![qwq](https://github.com/user-attachments/assets/ccbdc2ad-c5a8-42bb-8386-9ad0c6ec7041)
 
 浅川科學大學
