@@ -1,3 +1,4 @@
-# 图书馆临时分享区
-可以临时把想分享的图书上传到这个区域
-![FRXzyGBagAAgmf_](https://github.com/user-attachments/assets/d315cac6-52e2-4c59-897b-201cbd2a5e3b)
+# 表示论
+用于存放表示论有关的书籍
+
+表示论主要是研究代数结构在向量空间上受允许的作用，除了域
