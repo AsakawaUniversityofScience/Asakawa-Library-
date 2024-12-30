@@ -22,7 +22,7 @@
  
  Convex Analysis (II)_Mathematical Economics
  
-##`欧伯莱 (Oberle)`
+## 欧伯莱 (Oberle)
 
 微积分教程（第1卷）
 
