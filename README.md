@@ -22,7 +22,7 @@
  
  Convex Analysis (II)_Mathematical Economics
  
-`欧伯莱 (Oberle)`
+##`欧伯莱 (Oberle)`
 
 微积分教程（第1卷）
 
@@ -33,6 +33,8 @@
 `沃尔特·鲁丁 (Walter Rudin)`
 
 BabyRudin 数学分析原理
+
+实分析与复分析(中文版.原书第3版)
 
 `托马斯·阿扎尔德 (Thomas Alazard)`
 
