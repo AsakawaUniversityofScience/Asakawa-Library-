@@ -16,7 +16,7 @@
 
 目前已收录的教材：
 -
-`欧阳葵`
+#### 欧阳葵
 
  Convex Analysis (I)_Mathematical Economics
  
@@ -30,89 +30,89 @@
 
 微积分教程（第3卷）
 
-`沃尔特·鲁丁 (Walter Rudin)`
+#### 沃尔特·鲁丁 (Walter Rudin)
 
 BabyRudin 数学分析原理
 
 实分析与复分析(中文版.原书第3版)
 
-`托马斯·阿扎尔德 (Thomas Alazard)`
+#### 托马斯·阿扎尔德 (Thomas Alazard)
 
 Analysis and Partial Differential Equations
 
-`郑君里 (ZHENGJUN LIANG)`
+#### 郑君里 (ZHENGJUN LIANG)
 
 Folland Real Analysis Modern Techniques and Their Applications
 
-`尤根·约斯特 (Jürgen Jost)`
+#### 尤根·约斯特 (Jürgen Jost)
 
 GTM Partial Differential Equations
 
-`谢尔登·阿克 (Sheldon Axler)`
+#### 谢尔登·阿克 (Sheldon Axler)
 
 GTM282 Measure, Integration & Real Analysis
 
-`艾利·约瑟夫·卡坦 (Élie Joseph Cartan)`
+#### 艾利·约瑟夫·卡坦 (Élie Joseph Cartan)
 
 H. 嘉当 微分学
 
-`杰拉尔德·B·福兰德 (Gerald B. Folland)`
+#### 杰拉尔德·B·福兰德 (Gerald B. Folland)
 
 Real Analysis Modern Techniques and Their Applications
 
-`伊莱亚斯·门纳赫姆·斯坦 (Elias Menachem Stein)`
+#### 伊莱亚斯·门纳赫姆·斯坦 (Elias Menachem Stein)
 
 Real Analysis Stein
 
-`叶培新 魏秀杰`
+#### 叶培新 魏秀杰
 
 Real Analysis-Stein 汉化版
 
-`Kit-Wing Yu`
+#### Kit-Wing Yu
 
 Rudin《数学分析原理》习题解答指导
 
-`约翰·哈米尔·哈伯德 & 芭芭拉·伯克·哈伯德 (John Hamel Hubbard & Barbara Burke Hubbard)`
+#### 约翰·哈米尔·哈伯德 & 芭芭拉·伯克·哈伯德 (John Hamel Hubbard & Barbara Burke Hubbard)
 
 Student Solution Manual to accompany the Student Book
 
-`托马斯·阿扎尔德 & 克劳德·祖利 (Thomas Alazard & Claude Zuily)`
+#### 托马斯·阿扎尔德 & 克劳德·祖利 (Thomas Alazard & Claude Zuily)
 
 Tools and Problems in Partial Differential Equations
 
-`马格努斯·巴克·博坦 (Magnus Bakke Botnan)`
+#### 马格努斯·巴克·博坦 (Magnus Bakke Botnan)
 
 Topological Data Analysis
 
-`弗拉基米尔·A·佐里奇 (Vladimir A. Zorich)`
+#### 弗拉基米尔·A·佐里奇 (Vladimir A. Zorich)
 
 Mathematical Analysis I, II
 
-`莫伊塞·伊萨科维奇·纳加诺夫 (Моисе́й Исааки́вич Нага́нов)`
+#### 莫伊塞·伊萨科维奇·纳加诺夫 (Моисе́й Исааки́вич Нага́нов)
 
 伊.П.那汤松 实变函数论 I, II
 
-`吴天 (Wu Tian)`
+#### 吴天 (Wu Tian)
 
 中科大数学分析（B）历年考试真题
 
-`梅加强`
+#### 梅加强
 
 南大数分讲义_梅加强
 
-`鲍里斯·帕夫洛维奇·德米多夫 (Борис Павлович Демидов)`
+#### 鲍里斯·帕夫洛维奇·德米多夫 (Борис Павлович Демидов)
 
 吉米多维奇+数学分析习题集题解 I
 
-`廖良文`
+#### 廖良文
 
 复分析基础 (廖良文)
 
-`刘思齐`
+#### 刘思齐
 
 如何选择一本适合你的《数学分析》教科书？
 
-`汪林`
+#### 汪林
 
 实分析中的反例
 
@@ -120,90 +120,98 @@ Mathematical Analysis I, II
 
 泛函分析中的反例
 
-`周民强`
+#### 周民强
+
+实变函数解题指南
 
 实变函数与泛函分析讲义
 
-`鲁金 (H.H.Lyapunov)`
+实变函数论（第三版）
+
+数学分析习题演练 （第一册）（第二册）（第三册）
+
+#### 鲁金 (H.H.Lyapunov)
 
 实变函数论（苏）鲁金
 
-`张筑生`
+#### 张筑生
 
-张筑生 数学分析新讲（一）,（二）
+张筑生 数学分析新讲（一）,（二）, (三)
 
-`薛华 徐森林`
+#### 薛春华 徐森林
 
 徐森林数学分析
 
-`严子谦 尹景学 张然`
+薛春华、徐森林·数学分析精选习题全解（上册）(下册)
+
+#### 严子谦 尹景学 张然
 
 数学分析 - 严子谦 尹景学 张然
 
-`楼红卫`
+#### 楼红卫
 
 数学分析下册（第4版）
 
-`周民强`
+#### 周民强
 
 数学分析习题演练 第一册, 第二册, 第三册
 
-`谢惠民 恽自求 易法槐 钱定边`
+#### 谢惠民 恽自求 易法槐 钱定边
 
 数学分析习题课讲义（第2版）（上册, 下册）
 
-`常庚哲 史济怀`
+#### 常庚哲 史济怀
 
 数学分析教程（第3版）上册, 下册
 
-`史济怀`
+#### 史济怀
 
 复变函数
 
-`数学沉思录`
+#### 数学沉思录
 
 数学分析教程（第3版）参考答案
 
-`徐利治 王兴华`
+#### 徐利治 王兴华
 
 数学分析的方法及例题选讲
 
-`陈天权`
+#### 陈天权
 
 数学分析讲义（第3版）(陈天权), 第2册
 
-`归斌`
+#### 归斌
 
 求真分析讲义 归斌
 
-`江泽坚 孙善利`
+#### 江泽坚 孙善利
 
 泛函分析第2版
 
-
+#### 
 清华英才班数学分析讲义
 
-`涉谷道雄 陈芳 (译)`
+#### 涉谷道雄 陈芳 (译)
 
 漫画傅里叶解析
 
-`高木贞治`
+#### 高木贞治
 
 解析概说 (高木贞治)
 
-`Xu Shun`
+#### Xu Shun
 
 谢惠民上课答案
 
-`张祖锦`
+#### 张祖锦
 
 谢惠民习题答案
 
-`潘承洞 于秀源`
+#### 潘承洞 于秀源
 
 阶的估计基础
 
-`陶哲轩`
+#### 陶哲轩
 
 陶哲轩实分析 (Analysis)
 
