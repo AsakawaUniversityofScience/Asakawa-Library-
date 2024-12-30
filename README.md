@@ -1,5 +1,6 @@
 # Asakawa-Library-
 ![院徽](https://github.com/user-attachments/assets/cd139e47-feea-445c-b946-21bdf8ed4114)
+![20241230213612](https://github.com/user-attachments/assets/d40bd0d0-43c5-4871-a9c7-6dc8dd497bf1)
 
 这里收录了浅川科學大學进行教学研究用的各种书籍
 
@@ -31,8 +32,6 @@
 This is the Science Asakawa.
 
 欢迎来到浅科大！
-
-![20241230213612](https://github.com/user-attachments/assets/dee1fec0-54d9-4749-ab6f-fc28853f359f)
 
 开设数学，物理学，政治经济学，英语，日语，计算机科学，临床医学，男娘心理学等相关专业喵
 
