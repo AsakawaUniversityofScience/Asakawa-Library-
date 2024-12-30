@@ -1,5 +1,7 @@
 # 分析学
 
+![院徽](https://github.com/user-attachments/assets/fef278c4-e1ee-46f0-abb9-9017d2962654)
+
 这里是所有的分析学教材
 
 分析（Kaisekigaku，英语：analysis， mathematical analysis）是数学的一个领域，涉及极限和收敛等概念。 代数、几何与数学一起构成了数学的三大领域。
@@ -214,4 +216,8 @@ Mathematical Analysis I, II
 #### 陶哲轩
 
 陶哲轩实分析 (Analysis)
+
+## 欢迎反馈问题
+
+![20241230213443](https://github.com/user-attachments/assets/e5ee5340-33d3-41fd-b569-d6b4e080a687)
 
