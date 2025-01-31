@@ -15,13 +15,16 @@
 
 感谢所有 浅川科學大學 和 唐小菲大學 的小菲们一起来建设图书馆
 -------------------------------------------------------------------------------------------------------------------------------------------------
-感谢名单 |
+致谢名单 |
 ---|
 浅川爱
-[Sand](https://www.mcbbs.net/home.php?mod=space&uid=645182) | 给予不少帮助
-[银狼](https://www.mcbbs.net/home.php?mod=space&uid=200097) | 给予一定建议
-[贺兰星辰](https://www.mcbbs.net/home.php?mod=space&uid=495221) | 给予一定建议
-目前项目的参与者：煎顺包，长崎素世，一识，结城天，不再魔怔123，Analy，qwq...
+煎顺包
+一识
+结城天
+不再魔怔123
+Analy
+qwq
+
 ![qca](https://github.com/user-attachments/assets/e20bf810-8681-4920-a067-208d05827470)
 
 ![jsb](https://github.com/user-attachments/assets/9ef7a174-1f5c-4b1c-bbe5-255329438655)
