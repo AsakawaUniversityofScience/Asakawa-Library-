@@ -1,6 +1,5 @@
 # 浅川科學大學图书馆
 ![院徽](https://github.com/user-attachments/assets/cd139e47-feea-445c-b946-21bdf8ed4114)
-![浅科大校徽](https://github.com/user-attachments/assets/e479e841-c39f-4124-b1c6-65bc4d78a4f4)
 这里收录了浅川科學大學进行教学研究用的各种书籍
 
 呃啊，请选择不同分支来查看不同学科的图书
